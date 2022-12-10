@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "756772186880",
+    "project_id": "budet-by-brock",
+    "storage_bucket": "budet-by-brock.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756772186880:android:60088c13abcd927265e1e5",
+        "android_client_info": {
+          "package_name": "com.example.budetbybrock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756772186880-btqgsa1kvdb5prje7bh74aeki5j1eajb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-5lqRtb_WVZNif1-fv-duzWbALBEYhGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756772186880-btqgsa1kvdb5prje7bh74aeki5j1eajb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
